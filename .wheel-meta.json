@@ -1,0 +1,22 @@
+{
+  "wheel_id": 814,
+  "structure": "umbrella",
+  "slug": "retainingwallcontractors-110",
+  "project": "retaining-wall-contractors-budget-tips-04e717f00eaeb37744d975ca",
+  "parent_t1_ref": "retainingwallcontractors-154",
+  "node_role": "feeder",
+  "money_target": "retainingwallcontractors.com.au",
+  "primary_kw": "retaining wall contractors budget tips",
+  "intended_url": "https://sitesau.github.io/retainingwallcontractors-110/",
+  "tier": "T2",
+  "writeback_nonce": "85620e2d5d2af549",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-contractors-local-options-compared-417f07e1440e6/",
+      "anchor": "https://aumedia.neocities.org/retaining-wall-contractors-local-options-compared-417f07e1440e6/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
